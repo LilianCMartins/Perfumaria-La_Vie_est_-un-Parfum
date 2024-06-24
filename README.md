@@ -50,7 +50,9 @@ O usuário pode escolher o método de pagamento, entre Cartão de Crédito ou Pi
 
 ## Vídeo do Sistema Perfumaria La Vie est un Parfum 🎥 :
 
-"C:\Users\LILIAN\Videos\Gravações de Tela\Gravação de Tela 2024-06-23 213452.mp4"
+
+https://github.com/LilianCMartins/Perfumaria-La_Vie_est_-un-Parfum/assets/85973291/ec9e1a83-1ea9-4741-bc5c-3ea777bb5b70
+
 
 ## Como Usar o Site ▶️:
 
