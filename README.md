@@ -1,5 +1,5 @@
 # Perfumaria-La_Vie_est_-un-Parfum
-O projetoo é uma implementação de uma perfumaria de produtos internacionais feita em Java, com interface gráfica usando Swing. O sistema permite ao usuário
+O projeto é uma implementação de uma perfumaria de produtos internacionais feita em Java, com interface gráfica usando Swing. O sistema permite ao usuário
 se cadastrar, ver uma vitrine de perfumes internacionais. Podendo adicionar a um carrinho de compras, visualizar o carrinho e realizar o pagamento através de pix
 ou cartão. Além de se cadastrar e realizar o login. 
 
